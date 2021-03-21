@@ -1,0 +1,1 @@
+Simple project containing an API that publish messages to RabbitMq, and a worker that consume the messages. 
